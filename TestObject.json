@@ -1,0 +1,20 @@
+{ "results": [
+{
+  "foo": "bar",
+  "createdAt": "2013-11-06T18:14:14.513Z",
+  "updatedAt": "2013-11-06T18:14:14.513Z",
+  "objectId": "5lnnieSVZV"
+},
+{
+  "nom": "toto",
+  "createdAt": "2013-11-06T19:20:24.904Z",
+  "updatedAt": "2013-11-06T19:20:24.904Z",
+  "objectId": "ndzIntsI1Y"
+},
+{
+  "nom": "toto",
+  "createdAt": "2013-11-08T11:12:34.984Z",
+  "updatedAt": "2013-11-08T11:12:34.984Z",
+  "objectId": "PKKsMLRSCz"
+}
+] }
